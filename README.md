@@ -1,6 +1,6 @@
 # weatherapi
 
-A new Flutter project.
+API를 활용한 날씨 어플
 
 ## Getting Started
 
